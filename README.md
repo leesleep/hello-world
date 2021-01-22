@@ -1,2 +1,3 @@
 # 读书笔记
-my first repository
+李笑来作品 
+自学是门手艺
